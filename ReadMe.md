@@ -33,3 +33,10 @@ The bar shows how evenly spread most of the poputlation is for most of the distr
 
 ## Health Care Sites in SRI Lanka 
 ![Health care sites of Sri Lanka](https://github.com/Bfmack18/Workshop-/blob/master/Rplot06.png)
+In Dompe there approximately 6 different health care sites. Most of them are clinics but there are some hospitals as well. I believe they have more clinics because they are easier for citizens to be able to get check ins and simple appointments for simple illnesses and not serious cases. 
+
+## Topography of Sri Lanka 
+![](sp_dsg_conts.png)
+
+By looking at the topography of. Sri lanka there is a mountain system that is in the middle of it. Due to this mountain system there are currently no roadways that connect the upper and lower parts of this country. Due to this, people 
+must fly or go around the mountains to be able to travel between these two sides of the country. 
